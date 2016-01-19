@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">HSLeiden Twitter Applicatie</string>
-    <string name="hello_world">Hello world 5!</string>
+    <string name="hello_world">Test text</string>
     <string name="action_settings">Settings</string>
     <string name="test">test</string>
 
